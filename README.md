@@ -54,7 +54,7 @@
 
 <!-- Example: -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Ruby ](https://www.ruby-lang.org/en/) (which comes with [bundle]), [Redis] installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Ruby ](https://www.ruby-lang.org/en/) (which comes with [bundle])
 
 ```bash
 # Clone this repository
